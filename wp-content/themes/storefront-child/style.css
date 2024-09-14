@@ -1,0 +1,26 @@
+/*
+Theme Name:   Storefront Child
+Theme URL:        https://woocommerce.com/products/storefront/
+Description:  Storefront is the perfect theme for your next WooCommerce project. Designed and developed by WooCommerce Core developers, it features a bespoke integration with WooCommerce itself plus many of the most popular customer facing WooCommerce extensions. There are several layout & color options to personalise your shop, multiple widget regions, a responsive design and much more. Developers will love its lean and extensible codebase making it a joy to customize and extend. Looking for a WooCommerce theme? Look no further!
+Author:           Automattic
+Author URL:   https://woocommerce.com/
+Template:         Storefront
+Version:          1.0.0
+License:      GNU General Public License v3 or later
+License URI:  https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain:  storefront
+*/
+
+table.table-cities {
+    margin-top: 10px;
+}
+
+input[type=text] {
+    padding: .6180469716em;
+    background-color: #ffffff;
+    color: #43454b;
+    border: 1px solid #f8f8f8;
+    -webkit-appearance: none;
+    font-weight: 400;
+    box-shadow: none;
+}
